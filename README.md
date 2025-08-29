@@ -173,6 +173,4 @@ Este projeto foi desenvolvido como atividade da disciplina **Desenvolvimento de 
 
 Este é um projeto acadêmico desenvolvido pelo Grupo 4 da disciplina DAM.
 
----
 
-**Desenvolvido com ❤️ pelo Grupo 4 - IMPACTA**
