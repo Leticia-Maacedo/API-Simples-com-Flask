@@ -69,8 +69,8 @@ Content-Type: application/json
 **Body (JSON):**
 ```json
 {
-    "nome": "João Silva",
-    "email": "joao@email.com"
+    "nome": "Anna Julia Higa Farincho",
+    "email": "anna.julia@email.com"
 }
 ```
 
@@ -78,8 +78,8 @@ Content-Type: application/json
 ```json
 {
     "id": 1,
-    "nome": "João Silva",
-    "email": "joao@email.com"
+    "nome": "Anna Julia Higa Farincho",
+    "email": "anna.julia@email.com"
 }
 ```
 
@@ -91,8 +91,18 @@ Content-Type: application/json
 [
     {
         "id": 1,
-        "nome": "João Silva",
-        "email": "joao@email.com"
+        "nome": "Anna Julia Higa Farincho",
+        "email": "anna.julia@email.com"
+    },
+    {
+        "id": 2,
+        "nome": "Letícia Macedo",
+        "email": "leticia.macedo@email.com"
+    },
+    {
+        "id": 3,
+        "nome": "Evelyn Mercês",
+        "email": "evelyn.merces@email.com"
     }
 ]
 ```
@@ -104,8 +114,8 @@ Content-Type: application/json
 ```json
 {
     "id": 1,
-    "nome": "João Silva",
-    "email": "joao@email.com"
+    "nome": "Anna Julia Higa Farincho",
+    "email": "anna.julia@email.com"
 }
 ```
 
@@ -127,8 +137,8 @@ Content-Type: application/json
 **Body (JSON):**
 ```json
 {
-    "nome": "João Silva Santos",
-    "email": "joao.santos@email.com"
+    "nome": "Letícia Macedo",
+    "email": "leticia.macedo@email.com"
 }
 ```
 
@@ -136,8 +146,8 @@ Content-Type: application/json
 ```json
 {
     "id": 1,
-    "nome": "João Silva Santos",
-    "email": "joao.santos@email.com"
+    "nome": "Letícia Macedo",
+    "email": "leticia.macedo@email.com"
 }
 ```
 
@@ -168,9 +178,5 @@ Este projeto foi desenvolvido como atividade da disciplina **Desenvolvimento de 
 - Métodos HTTP
 - Manipulação de JSON
 - Status Codes HTTP
-
-## 🤝 Contribuições
-
-Este é um projeto acadêmico desenvolvido pelo Grupo 4 da disciplina DAM.
 
 
