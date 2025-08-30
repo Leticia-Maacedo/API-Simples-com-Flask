@@ -1,5 +1,8 @@
 # API Flask - Gerenciamento de Usuários
 
+https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg
+
+
 API RESTful simples desenvolvida com Flask para gerenciar usuários com operações CRUD.
 
 ## 📋 Informações do Projeto
